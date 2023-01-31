@@ -1,0 +1,26 @@
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\bin\Debug\flappy-jet.exe.config
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\bin\Debug\flappy-jet.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\bin\Debug\flappy-jet.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy_jet.Properties.Resources.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy-jet.csproj.GenerateResource.Cache
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy-jet.exe
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy-jet.pdb
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmJogo.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmPontuacoes.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmLoja.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmConfiguracao.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmMenu.resources
+C:\Users\Manuel Demo\Documents\MEUS_PROJETOS\Linguagem C#-prohectos\Games\flappy-jet\flappy-jet\obj\Debug\flappy-jet.csprojResolveAssemblyReference.cache
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\bin\Debug\flappy-jet.exe.config
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy-jet.exe
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy-jet.pdb
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\bin\Debug\flappy-jet.exe
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\bin\Debug\flappy-jet.pdb
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy-jet.csprojResolveAssemblyReference.cache
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmConfiguracao.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmJogo.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmLoja.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmMenu.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy_jet.frmPontuacoes.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy_jet.Properties.Resources.resources
+C:\Users\DESKTOP-DEMBO\Documents\MEUS_PROJETOS\Games\Base-C#\flappy-jet\flappy-jet\obj\Debug\flappy-jet.csproj.GenerateResource.Cache
